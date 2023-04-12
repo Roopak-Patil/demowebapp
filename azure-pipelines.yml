@@ -12,4 +12,4 @@ pool:
 
 steps:
 - script: echo Running on $(operatingSystem)
-  displayName: 'Run a one-line script'
+  displayName: 'Run a one-line script again'
